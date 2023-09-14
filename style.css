@@ -1,0 +1,65 @@
+.main {align-items: center;
+    color: rgb(223, 27, 27);
+
+    margin: 0;
+    padding: 0;
+    background-size: cover ;
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+body {
+    background-image: url(https://w.forfun.com/fetch/f1/f1723038b9091df3c014d82630a7ecbc.jpeg); 
+}
+p {
+    width: 60%;
+}
+.start {height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(197, 16, 16);
+    flex-direction: row;
+}
+.bodystart{background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(https://mobimg.b-cdn.net/v3/fetch/69/69867b9ec16bf44f8ea02055a0c7a554.jpeg);
+    
+}
+a { font-size: 40px;
+    text-decoration: none;
+    color: rgb(255, 10, 10);
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
+.card1, .card2, .card3 {
+   align-items: center;
+}
+.zagolovok { font-size: medium;
+    justify-content: center;
+    position:absolute;
+    top: 3%;
+    left: 28%;
+    flex-direction: column;
+    color:rgb(147, 144, 190);
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+    font-size: 50px;
+
+}
+.podval{
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    display: flex;
+
+}
+img{
+    border-radius: 15px;
+}
+iframe {
+    border-radius: 20px;
+}
+button{
+    flex-direction: column;
+    justify-self: center;
+}
