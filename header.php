@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="style.css">
     </head>
   <body class = "bodystart">
-    <h1 class = "zagolovok">Неудачные ролики</h1>
+    <h1 class = "zagolovok">Ролики</h1>
  <footer class ="podval">Раймер Максим 2023 год </footer>
   </body>
 </html>
